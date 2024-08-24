@@ -1,6 +1,7 @@
 # Snake Game
 
-Welcome to my Snake Game project! 🎮
+Welcome to my Snake Game project! 🎮 <br>
+> [**PLAY NOW!**](https://snake-game-pixelart.github.io/Website-Game/)
 
 ## Overview
 
