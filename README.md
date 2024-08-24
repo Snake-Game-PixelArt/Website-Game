@@ -21,4 +21,4 @@ I was inspired by the book ["Greatest CSS Tricks"](https://css-tricks.com/books/
 ## Project Setup
 
 To view the game, simply open the `index.html` file in your web browser. No additional setup is required.
-Or You can open the game by the link
+Or you can play the game [here](https://snake-game-pixelart.github.io/Website-Game/).
